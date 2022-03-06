@@ -1,0 +1,12 @@
+
+{
+	"colors": {
+		"contrast": "#FF5100",
+		"background": "#282828",
+		"text": {
+			"primary": "#FFF",
+			"secondary": "#C6C6C6"
+		},
+		"success": "#04D361"
+	}
+}
